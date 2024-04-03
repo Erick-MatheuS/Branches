@@ -7,4 +7,4 @@ trabalhando nela até este ponto do curso;
 ● Geralmente cada nova feature de um projeto fica em um branch 
 separado;
 ● Após a finalização das alterações os branchs são unidos para ter o 
-código-fonte final;
+código-fonte final;;
