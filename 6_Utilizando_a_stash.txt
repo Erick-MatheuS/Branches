@@ -1,2 +1,8 @@
+Stach
 
-oi
+Podemos salvar as modificaçoes atuais apara prosseguir com uma outra
+abordagem de soluções e não perde o código.
+
+O comando para esta ação é o git stash;
+
+Após o comando o branch será resetado para a sua versão de acordo com o repo;
