@@ -7,3 +7,6 @@ O comando para esta ação é o git stash;
 
 Após o comando o branch será resetado para a sua versão de acordo com o repo;
 
+fewfewf
+
+
