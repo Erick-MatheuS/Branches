@@ -1,6 +1,5 @@
-● Para visualizar os branchs disponíveis basta digitar git branch
-● Para criar um branch você precisa utilizar o comando git branch 
-<nome>
+● Para visualizar os branchs disponíveis basta digitar GIT BRANCH
+● Para criar um branch você precisa utilizar o comando GIT BRANCH <NOME>
 ● Estas duas operações são muito utilizadas no dia a dia de um dev;
 
 --------------------------------------------------------------------------------------------------------

@@ -8,4 +8,4 @@ Passo a passo:
 
 Inserimos um "git branch" em nosso git, para visualizar as branches;
 Escolhemos qual branch vamos deletar;
-Ai sim, damos o código <<<< GIT BRANCH -D MAIS>>>>>
+Ai sim, damos o código <<<< GIT BRANCH -D NOME>>>>>
