@@ -2,4 +2,4 @@
 <nome> -m “<msg>”
 ● A tag é diferente do stash, serve como um checkpoint de um branch;
 ● É utilizada para demarcar estágios do desenvolvimento de algum 
-recurso
+recurso;;;
